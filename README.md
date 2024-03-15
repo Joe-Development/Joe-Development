@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hi, I’m @JoeV2
 
-<!--
-**Joe-Development/Joe-Development** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  🛠️ Languages Used
+  
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Solstice-Development's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joe-development&show_icons=true&count_private=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-development&layout=compact&theme=radical)
+
+- 📫 Feel free to reach out to me on Discord at '*joev2_34491*'
+
+
+
+
+
