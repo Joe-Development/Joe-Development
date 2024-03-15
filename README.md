@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @JoeV2
 
--  🛠️ Languages Used
+-  🛠️ Language Used
   
 ![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 
