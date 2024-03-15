@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @JoeV2
+# 👋 Hi, I’m JoeV2
 
 -  🛠️ Language Used
   
