@@ -1,5 +1,5 @@
 # 💫 About Me:
-⭐ Currently Working On Something Big<br>🤩 Learning the Holy Language GO<br>😻 Cats are Amazing ( the best )<br>
+⭐ Working on Nothing just messing around tbh<br>🤩 Learning the Holy Language GO<br>😻 Cats are Amazing ( the best )<br>
 
 
 # 💻 Tech Stack:
