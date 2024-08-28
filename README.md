@@ -8,7 +8,7 @@ JavaScript, Node.js, Lua,  Nginx,, MariaDB, MySQL, PostgreSQL, Docker
 
 # Professional Experience
 - Freelance Developer (2023 - Present)
-  - Specialized in [backend development] & [FiveM Development] & [Embedded Development]
+  - Specialized in [backend development] - [FiveM Development] - [Embedded Development]
     
 
 
