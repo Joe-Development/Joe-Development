@@ -1,26 +1,25 @@
 # About Me
-- Currently exploring new projects and ideas.
-- Learning Go, the language of efficiency and simplicity.
-- Cat enthusiast—because they make everything better.
+I'm an avid developer with a passion for exploring innovative ideas and technologies. Currently diving into the world of Go, a language celebrated for its efficiency and simplicity. When I'm not coding, you can find me appreciating the company of cats—they truly make everything better.
 
 # Tech Stack
-JavaScript, Node.js, Lua,  Nginx,, MariaDB, MySQL, PostgreSQL, Docker
+Proficient in a range of technologies, with a focus on:
+- **JavaScript** and **Node.js** for discord development & tools
+- **Lua** for scripting and game development (especially in FiveM)
+- **Nginx** for high-performance web server configuration
+- **MariaDB**, **MySQL**, and **PostgreSQL** for robust database management
+- **Docker** for containerization and deployment
 
 # Professional Experience
-- Freelance Developer (2023 - Present)
-  - Specialized in [backend development] - [FiveM Development] - [Embedded Development]
-    
-
-
+### Freelance Developer (2023 - Present)
+I specialize in backend development, FiveM server development, and embedded systems. My work is characterized by a deep understanding of system architecture and a commitment to creating efficient, scalable solutions.
 
 # Current Focus & Interests
-- Expanding my knowledge of Websockets within JS
+I'm currently expanding my expertise in Websockets within JavaScript, exploring how real-time communication can enhance fivem scripts. This focus is driving my latest projects and experiments.
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Joe-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joe-Development&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joe-Development&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Joe-Development&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Joe-Development&limit=5&theme=dark&combine_all_yearly_contributions=true)
