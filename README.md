@@ -12,10 +12,13 @@ Proficient in a range of technologies, with a focus on:
 
 # Professional Experience
 ### Freelance Developer (2023 - Present)
-I specialize in backend development, FiveM server development, and embedded systems. My work is characterized by a deep understanding of system architecture and a commitment to creating efficient, scalable solutions.
+I specialize in backend development, FiveM server development, and embedded systems.
 
 # Current Focus & Interests
-I'm currently expanding my expertise in Websockets within JavaScript, exploring how real-time communication can enhance fivem scripts. This focus is driving my latest projects and experiments.
+EJS, Socket.io & Postgres/MariaDB/Docker/Nginx  
+
+# Learning At The Moment
+NextJS, GO, Rust
 
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
