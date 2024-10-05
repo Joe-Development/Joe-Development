@@ -3,10 +3,11 @@ I'm an avid developer with a passion for exploring innovative ideas and technolo
 
 # Tech Stack
 Proficient in a range of technologies, with a focus on:
-- **JavaScript/TypeScript** and **Node.js** for discord development & tools
+- **JavaScript/TypeScript/Node.js** for discord development & tools
+- **EJS** For Web Development for panels & management systems 
 - **Lua** for scripting and game development (especially in FiveM)
 - **Nginx** for high-performance web server configuration
-- **MariaDB**, **MySQL**, and **PostgreSQL** for robust database management
+- **MariaDB**, **MySQL**, **Redis**, **MongoDB/Prisma** and **PostgreSQL** for database management
 - **Docker** for containerization and deployment
 
 # Professional Experience
