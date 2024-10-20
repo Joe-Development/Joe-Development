@@ -20,6 +20,9 @@ EJS, Socket.io & Postgres/MariaDB/Docker/Nginx
 # Learning At The Moment
 NextJS, GO, Rust
 
+# My Hours Coding
+[![wakatime](https://wakatime.com/badge/user/c891a0e7-299e-423d-8191-23677f6089aa.svg)](https://wakatime.com/@c891a0e7-299e-423d-8191-23677f6089aa)
+
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joe-Development&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joe-Development&theme=dark&hide_border=false)
