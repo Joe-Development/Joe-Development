@@ -14,9 +14,6 @@ Proficient in a range of technologies, with a focus on:
 ### Freelance Developer (2023 - Present)
 I specialize in backend development, FiveM server development, and embedded systems.
 
-# Current Focus & Interests
-EJS, Socket.io & Postgres/MariaDB/Docker/Nginx  
-
 # Learning At The Moment
 NextJS, GO, Rust
 
