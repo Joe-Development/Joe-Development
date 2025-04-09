@@ -1,21 +1,11 @@
 # About Me
-I'm an avid developer with a passion for exploring innovative ideas and technologies. Currently diving into the world of Go, a language celebrated for its efficiency and simplicity. When I'm not coding, you can find me appreciating the company of cats—they truly make everything better.
+Hey there! I'm a backend and hobbyist developer from British Columbia, Canada.
+I spend most of my time building things that run behind the scenes... APIs, Tools you name it. I enjoy making stuff work smoothly and efficiently, even if no one ever sees it.
+I'm really into JavaScript, Lua, GO and working with databases. I’m always trying out new ideas.
+I love clean code, chill people, and figuring out how to make cool stuff actually work.
+
 
 # Tech Stack
-Proficient in a range of technologies, with a focus on:
-- **JavaScript/TypeScript/Node.js** for discord development & tools
-- **EJS** For Web Development for panels & management systems 
-- **Lua** for scripting and game development (especially in FiveM)
-- **Nginx** for high-performance web server configuration
-- **MariaDB**, **MySQL**, **Redis**, **MongoDB/Prisma** and **PostgreSQL** for database management
-- **Docker** for containerization and deployment
-
-# Professional Experience
-### Freelance Developer (2023 - Present)
-I specialize in backend development, FiveM server development, and embedded systems.
-
-# Learning At The Moment
-NextJS, GO, Rust
 
 # My Hours Coding
 [![wakatime](https://wakatime.com/badge/user/c891a0e7-299e-423d-8191-23677f6089aa.svg)](https://wakatime.com/@c891a0e7-299e-423d-8191-23677f6089aa)
