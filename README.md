@@ -1,5 +1,5 @@
 # About Me
-Hey im Joe im a 17yr old developer/programmar in British Columbia, Canada
+Hey im Joe im a 18yr old developer/programmar in British Columbia, Canada
 
 ## What i use!
 <div align="center">
