@@ -1,5 +1,5 @@
 # About Me
-Hey I'm Ethan (my real name), I'm a 18yr old developer/programmar in located in British Columbia, Canada
+Hey I'm Ethan (my real name), I'm a 18yr old developer/programmar located in British Columbia, Canada
 
 ## What I use, day to day
 <div align="center">
